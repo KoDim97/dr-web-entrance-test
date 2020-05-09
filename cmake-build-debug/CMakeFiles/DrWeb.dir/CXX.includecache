@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Studying/DrWeb/Dictionary.cpp
+IDictionary.h
+C:/Studying/DrWeb/IDictionary.h
+NotFoundException.cpp
+C:/Studying/DrWeb/NotFoundException.cpp
+
+C:/Studying/DrWeb/IDictionary.h
+map
+-
+
+C:/Studying/DrWeb/INotFoundException.h
+exception
+-
+
+C:/Studying/DrWeb/NotFoundException.cpp
+INotFoundException.h
+C:/Studying/DrWeb/INotFoundException.h
+
+C:/Studying/DrWeb/test.cpp
+iostream
+-
+Dictionary.cpp
+C:/Studying/DrWeb/Dictionary.cpp
+

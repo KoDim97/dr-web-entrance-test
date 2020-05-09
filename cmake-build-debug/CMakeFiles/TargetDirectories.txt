@@ -1,0 +1,3 @@
+C:/Studying/DrWeb/cmake-build-debug/CMakeFiles/DrWeb.dir
+C:/Studying/DrWeb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Studying/DrWeb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
